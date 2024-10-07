@@ -27,22 +27,22 @@ export const features = [
     {
       id: '0',
       icon: '/images/detail-1.png',
-      title: 'AI automated video editing',
+      title: 'Energy Efficient',
     },
     {
       id: '1',
       icon: '/images/detail-2.png',
-      title: 'Collaborate with your team',
+      title: 'Reliable',
     },
     {
       id: '2',
       icon: '/images/detail-3.png',
-      title: 'Ultra fast cloud-engine',
+      title: 'Ultra fast power generation',
     },
     {
       id: '3',
       icon: '/images/detail-4.png',
-      title: '24 / 7 Customer support',
+      title: '24 / 7 power generation',
     },
   ];
   
@@ -109,51 +109,60 @@ export const features = [
     },
   ];
   
-  export const plans = [
+  export const projects = [
     {
-      id: '0',
-      title: 'Core',
-      priceMonthly: 19,
-      priceYearly: 12,
-      caption: 'Best for solo creators',
-      features: [
-        '100MB Cloud storage',
-        '100+ prompt templates',
-        '5 projects',
-        '24/7 support',
+      title: "Company Founded",
+      icon: '/logomark.svg',
+      iconBg: "#383E56",
+      date: "September 2024",
+      points: [
+        "Milestone: Focus on piezoelectric road technology.",
       ],
-      icon: '/images/circle.svg',
-      logo: '/images/plan-1.png',
     },
     {
-      id: '1',
-      title: 'Overdrive',
-      priceMonthly: 79,
-      priceYearly: 59,
-      caption: 'Most popular plan',
-      features: [
-        'All Starter features',
-        '1TB additional storage',
-        'Unlimited projects',
-        'Analytics',
+      title: " Research & Development",
+      icon: '/logomark.svg',
+      iconBg: "#E6DEDD",
+      date: "September - October /2024",
+      points: [
+        "Milestone: Feasibility studies and expert collaborations.",
       ],
-      icon: '/images/triangle.svg',
-      logo: '/images/plan-2.png',
     },
     {
-      id: '2',
-      title: 'Team',
-      priceMonthly: 39,
-      priceYearly: 29,
-      caption: 'Exclusively for teams',
-      features: [
-        'All Overdrive features',
-        '10TB additional storage',
-        '50% off per member',
-        'Real-time collaboration',
+      title: "Pilot Test Launched",
+      icon: '/logomark.svg',
+      iconBg: "#383E56",
+      date: "October - December / 2024",
+      points: [
+        " Milestone: 10m test of piezoelectric system.",
       ],
-      icon: '/images/hexagon.svg',
-      logo: '/images/plan-3.png',
+    },
+    {
+      title: "Technology Demonstration",
+      icon: '/logomark.svg',
+      iconBg: "#E6DEDD",
+      date: "January / 2025",
+      points: [
+        "Milestone: Successful energy generation test.",
+      ],
+    },
+    {
+      title: "Next Fundraising Round",
+      icon: '/logomark.svg',
+      iconBg: "#E6DEDD",
+      date: "January / 2025",
+      points: [
+        "Milestone: Fundraising for larger scale implementation",
+      ],
+    },
+    {
+      title: "Manufacturing Plans",
+      icon: '/logomark.svg',
+      iconBg: "#E6DEDD",
+      date: "June / 2025",
+      points: [
+        "Milestone: Facility setup planned in East/Central Africa",
+      ],
     },
   ];
   

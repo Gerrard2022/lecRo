@@ -49,63 +49,63 @@ export const features = [
   export const faq = [
     {
       id: '0',
-      question: 'How easy is it to setup Xora?',
+      question: 'How easy is it to setup TBS?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '1',
-      question: 'Can I integrate Xora with other platforms?',
+      question: 'Can TBS be used on already built road infrastructure?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '2',
-      question: 'How often do you add new content?',
+      question: 'How much energy does it produce?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '3',
-      question: 'What your refund policy?',
+      question: 'How long does it take to install?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '4',
       question: 'Do you have corporate plans?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '5',
-      question: 'What happens when I’m out of storage?',
+      question: 'Where is the electricty stored?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '6',
-      question: 'Can I upgrade my plan?',
+      question: 'How is the electricity distributed?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '7',
-      question: 'How do I invite my team?',
+      question: 'What is Piezoelectric technology?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '8',
-      question: 'Do you offer training for individuals and teams?',
+      question: 'What are the harms to done to the environment?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
     {
       id: '9',
-      question: 'I’m locked out of my account what do I do?',
+      question: 'Those it produce any pollution?',
       answer:
-        'Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.',
+        'The answer goes here ...',
     },
   ];
   
@@ -171,7 +171,7 @@ export const features = [
       id: '0',
       name: 'Habiyambere Muhire Hubert',
       role: 'Managing Director',
-      avatarUrl: '/images/teamMembers/jim-bradley.png',
+      avatarUrl: '/images/teamMembers/hubert.jpg',
       comment:
         "Currently focusing on ...",
     },

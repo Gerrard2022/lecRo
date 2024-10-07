@@ -15,7 +15,7 @@ const TeamItem =  ({ item, containerClassName }) => {
             <img
               src={item.avatarUrl}
               alt={item.name}
-              className="size-full object-cover"
+              className="size-full object-cover rounded-full"
             />
           </div>
           <div>

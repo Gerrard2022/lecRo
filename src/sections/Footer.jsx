@@ -3,6 +3,7 @@ import { socials, footer } from '../constants'
 
 const Footer = () => {
   return (
+    <>
     <div className='container flex max-lg:flex-col lg:flex-row sm:justify-between justify-between items-center m-22'>
 <div className='flex items-center justify-between'>
 <a className="flex-1 cursor-pointer z-2 " href='/'>
@@ -34,6 +35,10 @@ const Footer = () => {
   ))}
 </div>
     </div>
+  <div>
+    <h4>2024. Lec-Ro. All Rights Reserved.</h4>
+  </div>
+    </>
   )
 }
 

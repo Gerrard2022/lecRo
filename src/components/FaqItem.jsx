@@ -1,7 +1,6 @@
 import clsx from "clsx";
 import { useState } from "react";
-import { Collapse } from "react-collapse"; // Import Collapse instead of SlideDown
-
+import { Collapse } from "react-collapse"; 
 const FaqItem = ({ item, index }) => {
   const [activeId, setActiveId] = useState(null);
 
@@ -40,7 +39,6 @@ const FaqItem = ({ item, index }) => {
         </div>
       </div>
 
-      {/* Replace SlideDown with Collapse */}
       <Collapse isOpened={activeId === item.id}>
         <div className="body-3 px-7 py-3.5">{item.answer}</div>
       </Collapse>

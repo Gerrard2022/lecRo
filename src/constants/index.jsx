@@ -405,7 +405,7 @@ export const features = [
   export const socials = [
     {
       id: '0',
-      title: 'x',
+      title: 'X',
       icon: '/images/socials/x.svg',
       url: 'https://x.com/BusinessLe42388',
     },
@@ -420,5 +420,33 @@ export const features = [
       title: 'Instagram',
       icon: '/images/socials/instagram.svg',
       url: 'https://instagram.com',
+    },
+  ];
+
+  export const footer = [
+    {
+      id: '0',
+      title: 'Hero',
+      url: 'hero',
+    },
+    {
+      id: '1',
+      title: 'Features',
+      url: 'features',
+    },
+    {
+      id: '2',
+      title: 'Projects',
+      url: 'projects',
+    },
+    {
+      id: '3',
+      title: 'Our Team',
+      url: 'team',
+    },
+    {
+      id: '4',
+      title: 'FaQs',
+      url: 'faq',
     },
   ];

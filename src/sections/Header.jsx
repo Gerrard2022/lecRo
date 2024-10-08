@@ -79,9 +79,9 @@ const Header = () => {
                 </li>
 
                 <li className="nav-li">
-                  <NavLink title="faq" />
+                  <NavLink title="FaQ" />
                   <div className="dot" />
-                  <NavLink title="download" />
+                  <NavLink title="Our Team" />
                 </li>
               </ul>
             </nav>

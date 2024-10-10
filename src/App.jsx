@@ -9,7 +9,7 @@ import Footer from "./sections/Footer.jsx";
 
 function App() {
 
-  return <Header />
+  return <div> he'll work </div>
 }
 
 export default App

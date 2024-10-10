@@ -9,11 +9,7 @@ import Footer from "./sections/Footer.jsx";
 
 function App() {
 
-  return (
-   <main className='overflow-hidden'>
-      <Header />
-   </main>
-  )
+  return <Header />
 }
 
 export default App

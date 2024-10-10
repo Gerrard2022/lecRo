@@ -7,20 +7,13 @@ import Team from "./sections/Team.jsx";
 import Footer from "./sections/Footer.jsx";
 
 
-const App= () =>{
+function App() {
 
   return (
-   <main>
+   <main className='overflow-hidden'>
       <Header />
-      <Hero />
-      <Features />
-      <Projects />
-      <Team />
-      <Faq />
-      <Footer/>
    </main>
   )
 }
 
 export default App
-

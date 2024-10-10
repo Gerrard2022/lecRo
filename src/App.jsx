@@ -7,7 +7,7 @@ import Team from "./sections/Team.jsx";
 import Footer from "./sections/Footer.jsx";
 
 
-function App() {
+const App= () =>{
 
   return (
    <main>

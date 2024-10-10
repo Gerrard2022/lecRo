@@ -9,7 +9,17 @@ import Footer from "./sections/Footer.jsx";
 
 function App() {
 
-  return <div> he'll work </div>
+  return (
+   <main className='overflow-hidden'>
+      <Header />
+      <Hero />
+      <Features />
+      <Projects />
+      <Team />
+      <Faq />
+      <Footer/>
+   </main>
+  )
 }
 
 export default App
